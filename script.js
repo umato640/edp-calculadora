@@ -3,7 +3,7 @@ let value2 = undefined;
 let operator = undefined;
 
 function display(val){
-    document.getElementById('textval').value = val;
+    document.getElementById('display_val').value = val;
 }
 
 function set(val) {
