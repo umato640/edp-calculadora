@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>JS Calculator</title>
+    <link href="style.css" rel="stylesheet" type="text/css"/>
+</head>
+<body>
+
+<div class="center">
+    <div>
+        <div><h1>Simple Calculator</h1></div>
+        <table>
+            <tr>
+                <td>
+                    <input type="button" value="Clear" onclick="clr()"/>
+                </td>
+                <td colspan="3">
+                    <label for="textval"></label><input type="text" id="textval"/>
+                </td>
+
+            </tr>
+            <tr>
+                <td>
+                    <input type="button" value="+" onclick="set_op('+')"/>
+                </td>
+                <td>
+                    <input type="button" value="1" onclick="set(1)"/>
+                </td>
+                <td>
+                    <input type="button" value="2" onclick="set(2)"/>
+                </td>
+                <td>
+                    <input type="button" value="3" onclick="set(3)"/>
+                </td>
+
+            </tr>
+            <tr>
+                <td>
+                    <input type="button" value="-" onclick="set_op('-')"/>
+                </td>
+                <td>
+                    <input type="button" value="4" onclick="set(4)"/>
+                </td>
+                <td>
+                    <input type="button" value="5" onclick="set(5)"/>
+                </td>
+                <td>
+                    <input type="button" value="6" onclick="set(6)"/>
+                </td>
+
+            </tr>
+            <tr>
+                <td>
+                    <input type="button" value="*" onclick="set_op('*')"/>
+                </td>
+                <td>
+                    <input type="button" value="7" onclick="set(7)"/>
+                </td>
+                <td>
+                    <input type="button" value="8" onclick="set(8)"/>
+                </td>
+                <td>
+                    <input type="button" value="9" onclick="set(9)"/>
+                </td>
+
+            </tr>
+            <tr>
+                <td>
+                    <input type="button" value="/" onclick="set_op('/')"/>
+                </td>
+                <td>
+                    <input type="button" value="." onclick="set_point('.')"/>
+                </td>
+                <td>
+                    <input type="button" value="0" onclick="set(0)"/>
+                </td>
+                <td>
+                    <input type="button" value="=" onclick="equal()"/>
+                </td>
+
+
+            </tr>
+        </table>
+    </div>
+    <script src="script.js"></script>
+</div>
+</body>
+</html>
