@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1680697145196" clover="3.2.0">
+  <project timestamp="1680697145196" name="All files">
+    <metrics statements="55" coveredstatements="55" conditionals="39" coveredconditionals="36" methods="6" coveredmethods="6" elements="100" coveredelements="97" complexity="0" loc="55" ncloc="55" packages="1" files="2" classes="2"/>
+    <file name="model.js" path="C:\Users\Unai\Documents\1DAM\ISO\edp-calculadora\js\model.js">
+      <metrics statements="47" coveredstatements="47" conditionals="31" coveredconditionals="29" methods="5" coveredmethods="5"/>
+      <line num="5" count="15" type="stmt"/>
+      <line num="6" count="15" type="stmt"/>
+      <line num="7" count="15" type="stmt"/>
+      <line num="11" count="29" type="cond" truecount="2" falsecount="0"/>
+      <line num="12" count="21" type="cond" truecount="2" falsecount="0"/>
+      <line num="13" count="13" type="stmt"/>
+      <line num="15" count="8" type="stmt"/>
+      <line num="16" count="21" type="stmt"/>
+      <line num="18" count="8" type="cond" truecount="2" falsecount="0"/>
+      <line num="19" count="5" type="stmt"/>
+      <line num="21" count="3" type="stmt"/>
+      <line num="22" count="8" type="stmt"/>
+      <line num="27" count="6" type="cond" truecount="2" falsecount="0"/>
+      <line num="28" count="4" type="cond" truecount="2" falsecount="0"/>
+      <line num="29" count="1" type="stmt"/>
+      <line num="30" count="3" type="cond" truecount="1" falsecount="1"/>
+      <line num="31" count="3" type="stmt"/>
+      <line num="33" count="4" type="stmt"/>
+      <line num="36" count="2" type="cond" truecount="2" falsecount="0"/>
+      <line num="37" count="1" type="stmt"/>
+      <line num="38" count="1" type="cond" truecount="1" falsecount="1"/>
+      <line num="39" count="1" type="stmt"/>
+      <line num="41" count="2" type="stmt"/>
+      <line num="47" count="4" type="cond" truecount="5" falsecount="0"/>
+      <line num="48" count="1" type="stmt"/>
+      <line num="49" count="1" type="stmt"/>
+      <line num="50" count="1" type="stmt"/>
+      <line num="54" count="3" type="cond" truecount="5" falsecount="0"/>
+      <line num="55" count="1" type="stmt"/>
+      <line num="56" count="1" type="stmt"/>
+      <line num="57" count="1" type="stmt"/>
+      <line num="58" count="1" type="stmt"/>
+      <line num="62" count="2" type="cond" truecount="5" falsecount="0"/>
+      <line num="63" count="1" type="stmt"/>
+      <line num="64" count="1" type="stmt"/>
+      <line num="65" count="1" type="stmt"/>
+      <line num="66" count="1" type="stmt"/>
+      <line num="69" count="1" type="stmt"/>
+      <line num="70" count="1" type="stmt"/>
+      <line num="72" count="1" type="stmt"/>
+      <line num="74" count="1" type="stmt"/>
+      <line num="75" count="1" type="stmt"/>
+      <line num="76" count="1" type="stmt"/>
+      <line num="77" count="1" type="stmt"/>
+      <line num="81" count="1" type="stmt"/>
+      <line num="82" count="1" type="stmt"/>
+      <line num="83" count="1" type="stmt"/>
+    </file>
+    <file name="utils.js" path="C:\Users\Unai\Documents\1DAM\ISO\edp-calculadora\js\utils.js">
+      <metrics statements="8" coveredstatements="8" conditionals="8" coveredconditionals="7" methods="1" coveredmethods="1"/>
+      <line num="2" count="5" type="cond" truecount="2" falsecount="0"/>
+      <line num="3" count="2" type="stmt"/>
+      <line num="5" count="3" type="cond" truecount="2" falsecount="0"/>
+      <line num="6" count="1" type="stmt"/>
+      <line num="8" count="2" type="cond" truecount="2" falsecount="0"/>
+      <line num="9" count="1" type="stmt"/>
+      <line num="11" count="1" type="cond" truecount="1" falsecount="1"/>
+      <line num="12" count="1" type="stmt"/>
+    </file>
+  </project>
+</coverage>
